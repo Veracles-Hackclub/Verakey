@@ -10,10 +10,17 @@ This is my journal of the design and building process of **VeraKey**.
 You can view this journal in more detail on **Hack Club Blueprint** [here](https://blueprint.hackclub.com/projects/91).
 
 
-## 10/4/2025 - Planning and prep  
+## 10/4/2025 2 AM - Planning and prep  
 
 I started by spending a few hours exploring potential options, protocols, and security solutions! This took a bit, and I ended up going down a cryptography rabbit hole exploring all of the abusrdly cool options available. In the end I decided to go for a simple design, using a USB-C plug for simplicity, and avoiding the fingerprint sensor, because the cheapest one I can find is 20$ and I need to trim the fat off of these so I can order a few for testing, in case I accidentally brick it in firmware development.
 
 ![image.png](https://blueprint.hackclub.com/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MjY5LCJwdXIiOiJibG9iX2lkIn19--bff7b48391c9b6c67f2ff8efebd9d33031a92e4e/image.png)
+  
+
+## 10/4/2025 4 AM - Schematics!!  
+
+I started off by creating the main power system, including a polyfuse, USB-C connector, and a ESD protection circuit (can never be too careful, esp with security) I also added a security module and the main STM-32 chip, there's a spare I2C pair I have on this, so I might take advantage of the overkill amount of memory to add an LCD screen to this, for a fun twist!
+
+![image.png](https://blueprint.hackclub.com/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6Mjc1LCJwdXIiOiJibG9iX2lkIn19--3865cb6c76cb67ce407d7e549c25d12d7a80f33b/image.png)
   
 
