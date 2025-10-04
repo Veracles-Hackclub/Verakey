@@ -24,3 +24,9 @@ I started off by creating the main power system, including a polyfuse, USB-C con
 ![image.png](https://blueprint.hackclub.com/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6Mjc1LCJwdXIiOiJibG9iX2lkIn19--3865cb6c76cb67ce407d7e549c25d12d7a80f33b/image.png)
   
 
+## 10/4/2025 5 AM - PCB PAIN  
+
+I got the original pcb routed, I had a few issues but I ended up adding a SSD1306 Oled and 2 neopixels for fun! It's a mess rn but DRC is saying yes and frankly that's good enough for me. I honestly might redesign it around 4 layers, because it is really reLLY BOTHERING ME.
+![image.png](https://blueprint.hackclub.com/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MjkzLCJwdXIiOiJibG9iX2lkIn19--bfcd70f56af49133e896038caff301b97ab66e11/image.png)
+  
+
