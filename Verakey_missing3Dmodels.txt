@@ -1,0 +1,14 @@
+### Missing 3D models - created on 2025-10-04 19:05
+### Printed by checking_3D_models plugin
+Board file: C:\Users\Owen\Documents\Projects\Hack Club\Blueprint\Verakey\Verakey.kicad_pcb
+3D missing models written to:
+C:\Users\Owen\Documents\Projects\Hack Club\Blueprint\Verakey\Verakey_missing3Dmodels.txt
+-------
+('C7', 'C:\\Users\\Owen\\AppData\\Local\\Programs\\KiCad\\9.0\\share\\kicad\\3dmodels\\Capacitor_SMD.3dshapes\\C_0504_1310Metric.step')
+('J2', 'C:\\Users\\Owen\\AppData\\Local\\Programs\\KiCad\\9.0\\share\\kicad\\3dmodels\\Connector_USB.3dshapes\\USB_C_Receptacle_Palconn_UTC16-G.step')
+('U2', 'C:\\Users\\Owen\\AppData\\Local\\Programs\\KiCad\\9.0\\share\\kicad\\3dmodels\\Package_DFN_QFN.3dshapes\\DFN-8-1EP_3x2mm_P0.5mm_EP1.3x1.5mm.step')
+('D2', 'C:\\Users\\Owen\\AppData\\Local\\Programs\\KiCad\\9.0\\share\\kicad\\3dmodels\\LED_SMD.3dshapes\\LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm.step')
+('D1', 'C:\\Users\\Owen\\AppData\\Local\\Programs\\KiCad\\9.0\\share\\kicad\\3dmodels\\LED_SMD.3dshapes\\LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm.step')
+-------
+NUM of 3D missing models:5
+checked extensions ['.stp', '.step', '.stpZ']
