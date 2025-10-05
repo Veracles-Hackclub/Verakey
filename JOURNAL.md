@@ -30,3 +30,14 @@ I got the original pcb routed, I had a few issues but I ended up adding a SSD130
 ![image.png](https://blueprint.hackclub.com/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MjkzLCJwdXIiOiJibG9iX2lkIn19--bfcd70f56af49133e896038caff301b97ab66e11/image.png)
   
 
+## 10/5/2025 - REDESIGN  
+
+I was hating how the current design looked, so I ended up rebuilding it, as well as adding pull up resistors to both I2C lanes, swapping the USP-C plug to a receptacle for more flexibility, and adding a more defined power lane. I also am going to be adding some silkscreen art to the back, and a few other fun things.
+
+I also took this time to perform a comprehensive DRC check,  which took a few hours as I tweaked tolerances and minumum design rules to find the best balance between smart design practice and efficiency. Ultimately I think I did a good job at this, and have only a few parts I actually need to worry about design wise.
+
+I also resized it to fit the OLED screen more effectively, and did a few last rewords of smaller aspects like the secure element (swapped to a smaller footprint) and the connector (found one that was like 10 cents cheaper and a bit smaller.
+
+![image.png](https://blueprint.hackclub.com/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6NDQ3LCJwdXIiOiJibG9iX2lkIn19--1b84f79f538dc568661fb4ee3953fc0e12e3b279/image.png)
+  
+
