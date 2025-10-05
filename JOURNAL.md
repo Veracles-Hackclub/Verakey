@@ -30,7 +30,7 @@ I got the original pcb routed, I had a few issues but I ended up adding a SSD130
 ![image.png](https://blueprint.hackclub.com/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MjkzLCJwdXIiOiJibG9iX2lkIn19--bfcd70f56af49133e896038caff301b97ab66e11/image.png)
   
 
-## 10/5/2025 - REDESIGN  
+## 10/5/2025 12:40 AM - REDESIGN  
 
 I was hating how the current design looked, so I ended up rebuilding it, as well as adding pull up resistors to both I2C lanes, swapping the USP-C plug to a receptacle for more flexibility, and adding a more defined power lane. I also am going to be adding some silkscreen art to the back, and a few other fun things.
 
@@ -40,4 +40,10 @@ I also resized it to fit the OLED screen more effectively, and did a few last re
 
 ![image.png](https://blueprint.hackclub.com/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6NDQ3LCJwdXIiOiJibG9iX2lkIn19--1b84f79f538dc568661fb4ee3953fc0e12e3b279/image.png)
   
+
+## 10/5/2025 12:46 AM - DONE  
+
+![image.png](https://blueprint.hackclub.com/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6NDQ4LCJwdXIiOiJibG9iX2lkIn19--a62a4c0167ce9bc40d3c7c5b42ece95d2e9d1d11/image.png)
+
+I figured the design could look really cool with a keychain so I added that, I also populated the model with 3d parts and, with the exception of the neopixel, the secure element, and the USB C connector, have gotten everything ready to be fabricated! I'll add some silkscreen art before I send it out tho :3  
 
