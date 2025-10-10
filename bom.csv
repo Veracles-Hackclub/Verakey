@@ -1,18 +1,19 @@
-Reference,Qty,Value,DNP,Exclude from BOM,Exclude from Board,Footprint,Datasheet,DigiKey Price USD,AliExpress Price USD,DigiKey Total,AliExpress Total
-"C1,C2,C3",3,1uF,,,,"Capacitor_SMD:C_0402_1005Metric",,0.10,0.02,0.30,0.06
-C4,1,10uF,,,,"Capacitor_SMD:C_0603_1608Metric",,0.15,0.03,0.15,0.03
-"C5,C6",2,1uF,,,,"Capacitor_SMD:C_0603_1608Metric",~,0.12,0.02,0.24,0.04
-C7,1,100nF,,,,"Capacitor_SMD:C_0504_1310Metric",,0.12,0.02,0.12,0.02
-"D1,D2",2,SK6812MINI,,,,"LED_SMD:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm",https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf,0.45,0.15,0.90,0.30
-F1,1,500mA,,,,"Fuse:Fuse_1206_3216Metric",~,0.35,0.10,0.35,0.10
-J1,1,Conn_01x04_Pin,,,,"Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical",~,0.25,0.08,0.25,0.08
-J2,1,USB_C_Receptacle_USB2.0_16P,,,,"Connector_USB:USB_C_Receptacle_Palconn_UTC16-G",https://www.usb.org/sites/default/files/documents/usb_type-c.zip,0.85,0.25,0.85,0.25
-"R1,R2",2,22,,,,"Resistor_SMD:R_0201_0603Metric",~,0.08,0.01,0.16,0.02
-"R3,R4",2,5.1k,,,,"Resistor_SMD:R_0201_0603Metric",~,0.08,0.01,0.16,0.02
-"R5,R6,R7,R8",4,4.7k,,,,"Resistor_SMD:R_0402_1005Metric",~,0.10,0.01,0.40,0.04
-R9,1,10k,,,,"Resistor_SMD:R_0603_1608Metric",~,0.10,0.01,0.10,0.01
-TP1,1,TestPoint_2Pole,,,,"Connector_PinHeader_1.00mm:PinHeader_1x02_P1.00mm_Vertical",~,0.20,0.05,0.20,0.05
-U1,1,STM32L432KBUx,,,,"Package_DFN_QFN:QFN-32-1EP_5x5mm_P0.5mm_EP3.45x3.45mm",https://www.st.com/resource/en/datasheet/stm32l432kb.pdf,4.50,2.80,4.50,2.80
-U2,1,ATECC608A-MAHDA,,,,"Package_DFN_QFN:DFN-8-1EP_3x2mm_P0.5mm_EP1.3x1.5mm",http://ww1.microchip.com/downloads/en/DeviceDoc/ATECC608A-CryptoAuthentication-Device-Summary-Data-Sheet-DS40001977B.pdf,1.20,0.65,1.20,0.65
-U3,1,USBLC6-2SC6,,,,"Package_TO_SOT_SMD:SOT-23-6",https://www.st.com/resource/en/datasheet/usblc6-2.pdf,0.45,0.12,0.45,0.12
-U4,1,TLV75533PDBV,,,,"Package_TO_SOT_SMD:SOT-23-5",http://www.ti.com/lit/ds/symlink/tlv755p.pdf,0.65,0.25,0.65,0.25
+reference,qty,value,dnp,exclude from bom,exclude from board,footprint,datasheet,aliexpress price usd,aliexpress total
+"C1,C2,C3",3,1uF,,,,"Capacitor_SMD:C_0402_1005Metric",,0.02,0.06
+C4,1,10uF,,,,"Capacitor_SMD:C_0603_1608Metric",,0.03,0.03
+"C5,C6",2,1uF,,,,"Capacitor_SMD:C_0603_1608Metric",~,0.02,0.04
+C7,1,100nF,,,,"Capacitor_SMD:C_0504_1310Metric",,0.02,0.02
+"D1,D2",2,SK6812MINI,,,,"LED_SMD:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm",https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf,0.15,0.30
+F1,1,500mA,,,,"Fuse:Fuse_1206_3216Metric",~,0.10,0.10
+J1,1,Conn_01x04_Pin,,,,"Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical",~,0.08,0.08
+J2,1,USB_C_Receptacle_USB2.0_16P,,,,"Connector_USB:USB_C_Receptacle_Palconn_UTC16-G",https://www.usb.org/sites/default/files/documents/usb_type-c.zip,0.25,0.25
+"R1,R2",2,22,,,,"Resistor_SMD:R_0201_0603Metric",~,0.01,0.02
+"R3,R4",2,5.1k,,,,"Resistor_SMD:R_0201_0603Metric",~,0.01,0.02
+"R5,R6,R7,R8",4,4.7k,,,,"Resistor_SMD:R_0402_1005Metric",~,0.01,0.04
+R9,1,10k,,,,"Resistor_SMD:R_0603_1608Metric",~,0.01,0.01
+TP1,1,TestPoint_2Pole,,,,"Connector_PinHeader_1.00mm:PinHeader_1x02_P1.00mm_Vertical",~,0.05,0.05
+U1,1,STM32L432KBUx,,,,"Package_DFN_QFN:QFN-32-1EP_5x5mm_P0.5mm_EP3.45x3.45mm",https://www.st.com/resource/en/datasheet/stm32l432kb.pdf,2.80,2.80
+U2,1,ATECC608A-MAHDA,,,,"Package_DFN_QFN:DFN-8-1EP_3x2mm_P0.5mm_EP1.3x1.5mm",http://ww1.microchip.com/downloads/en/DeviceDoc/ATECC608A-CryptoAuthentication-Device-Summary-Data-Sheet-DS40001977B.pdf,0.65,0.65
+U3,1,USBLC6-2SC6,,,,"Package_TO_SOT_SMD:SOT-23-6",https://www.st.com/resource/en/datasheet/usblc6-2.pdf,0.12,0.12
+U4,1,TLV75533PDBV,,,,"Package_TO_SOT_SMD:SOT-23-5",http://www.ti.com/lit/ds/symlink/tlv755p.pdf,0.25,0.25
+,,,,,,,,TOTAL,4.84
