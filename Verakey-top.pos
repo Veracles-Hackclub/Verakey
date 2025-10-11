@@ -1,0 +1,29 @@
+### Footprint positions - created on 2025-10-04T19:28:51-0600 ###
+### Printed by KiCad version 9.0.2
+## Unit = mm, Angle = deg.
+## Side : top
+# Ref     Val                          Package                                      PosX       PosY       Rot  Side
+C1        1uF                          C_0402_1005Metric                         44.2000   -33.1000  -90.0000  top
+C2        1uF                          C_0402_1005Metric                         37.7000   -27.0000   90.0000  top
+C3        1uF                          C_0402_1005Metric                         44.6000   -29.3200   90.0000  top
+C4        10uF                         C_0603_1608Metric                         45.1250   -37.9000    0.0000  top
+C5        1uF                          C_0603_1608Metric                         29.1000   -37.6000  -90.0000  top
+C6        1uF                          C_0603_1608Metric                         34.7000   -37.6000  -90.0000  top
+C7        100nF                        C_0504_1310Metric                         47.8000   -35.7000    0.0000  top
+D1        SK6812MINI                   LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm    58.5250   -32.9500   90.0000  top
+D2        SK6812MINI                   LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm    58.5250   -27.0500   90.0000  top
+F1        500mA                        Fuse_1206_3216Metric                      26.0000   -36.8000    0.0000  top
+J1        Conn_01x04_Pin               PinHeader_1x04_P2.54mm_Vertical           68.2000   -26.1900    0.0000  top
+J2        USB_C_Receptacle_USB2.0_16P  USB_C_Receptacle_Palconn_UTC16-G          24.3000   -30.0000  -90.0000  top
+R2        22                           R_0201_0603Metric                         35.8000   -30.9000    0.0000  top
+R5        4.7k                         R_0402_1005Metric                         52.7000   -32.8000   90.0000  top
+R6        4.7k                         R_0402_1005Metric                         52.7000   -35.7500   90.0000  top
+R7        4.7k                         R_0402_1005Metric                         43.6000   -35.4000  180.0000  top
+R8        4.7k                         R_0402_1005Metric                         42.4000   -34.2000  180.0000  top
+R9        10k                          R_0603_1608Metric                         50.7316   -37.8000  180.0000  top
+TP1       TestPoint_2Pole              PinHeader_1x02_P1.00mm_Vertical           46.9100   -33.2500   90.0000  top
+U1        STM32L432KBUx                QFN-32-1EP_5x5mm_P0.5mm_EP3.45x3.45mm     40.9500   -30.0625  180.0000  top
+U2        ATECC608A-MAHDA              DFN-8-1EP_3x2mm_P0.5mm_EP1.3x1.5mm        40.2750   -36.6250    0.0000  top
+U3        USBLC6-2SC6                  SOT-23-6                                  30.1000   -33.5000  -90.0000  top
+U4        TLV75533PDBV                 SOT-23-5                                  31.9000   -37.6000    0.0000  top
+## End

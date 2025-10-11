@@ -9,8 +9,6 @@
 	(paper "A4")
 	(layers
 		(0 "F.Cu" signal)
-		(4 "In1.Cu" signal)
-		(6 "In2.Cu" signal)
 		(2 "B.Cu" signal)
 		(9 "F.Adhes" user "F.Adhesive")
 		(11 "B.Adhes" user "B.Adhesive")
@@ -53,30 +51,8 @@
 				(thickness 0.035)
 			)
 			(layer "dielectric 1"
-				(type "prepreg")
-				(thickness 0.1)
-				(material "FR4")
-				(epsilon_r 4.5)
-				(loss_tangent 0.02)
-			)
-			(layer "In1.Cu"
-				(type "copper")
-				(thickness 0.035)
-			)
-			(layer "dielectric 2"
 				(type "core")
-				(thickness 0.44)
-				(material "FR4")
-				(epsilon_r 4.5)
-				(loss_tangent 0.02)
-			)
-			(layer "In2.Cu"
-				(type "copper")
-				(thickness 0.035)
-			)
-			(layer "dielectric 3"
-				(type "prepreg")
-				(thickness 0.1)
+				(thickness 0.71)
 				(material "FR4")
 				(epsilon_r 4.5)
 				(loss_tangent 0.02)
@@ -4861,7 +4837,7 @@
 			(net 3 "GND")
 			(pinfunction "SHIELD")
 			(pintype "passive")
-			(uuid "c41f5a1e-fec0-40ea-ac72-f0f4ff4ec488")
+			(uuid "b07ef2e8-10e4-409d-98ff-93a7c1c4507a")
 		)
 		(pad "S1" thru_hole oval
 			(at 4.32 -1.93)
@@ -4873,7 +4849,7 @@
 			(net 3 "GND")
 			(pinfunction "SHIELD")
 			(pintype "passive")
-			(uuid "c41f5a1e-fec0-40ea-ac72-f0f4ff4ec488")
+			(uuid "80fc8c3a-6d46-4b21-8ef1-733564c6c2ef")
 		)
 		(pad "S1" thru_hole oval
 			(at 4.32 2.24)
@@ -4885,7 +4861,7 @@
 			(net 3 "GND")
 			(pinfunction "SHIELD")
 			(pintype "passive")
-			(uuid "c41f5a1e-fec0-40ea-ac72-f0f4ff4ec488")
+			(uuid "1170f9bc-7789-4fd8-9371-538bb9336596")
 		)
 		(embedded_fonts no)
 		(model "${KICAD9_3DMODEL_DIR}/Connector_USB.3dshapes/USB_C_Receptacle_Palconn_UTC16-G.step"
