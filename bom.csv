@@ -1,20 +1,22 @@
-reference,qty,value,dnp,exclude from bom,exclude from board,footprint,datasheet,aliexpress price usd
-"C1,C2,C3",3,1uF,,,,"Capacitor_SMD:C_0402_1005Metric",,1.50
-C4,1,10uF,,,,"Capacitor_SMD:C_0603_1608Metric",,1.20
-"C5,C6",2,1uF,,,,"Capacitor_SMD:C_0603_1608Metric",~,1.20
-C7,1,100nF,,,,"Capacitor_SMD:C_0504_1310Metric",,1.00
-"D1,D2",2,SK6812MINI,,,,"LED_SMD:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm",https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf,2.50
-F1,1,500mA,,,,"Fuse:Fuse_1206_3216Metric",~,1.50
-J1,1,Conn_01x04_Pin,,,,"Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical",~,0.80
-J2,1,USB_C_Receptacle_USB2.0_16P,,,,"Connector_USB:USB_C_Receptacle_Palconn_UTC16-G",https://www.usb.org/sites/default/files/documents/usb_type-c.zip,2.50
-"R1,R2",2,22,,,,"Resistor_SMD:R_0201_0603Metric",~,1.00
-"R3,R4",2,5.1k,,,,"Resistor_SMD:R_0201_0603Metric",~,1.00
-"R5,R6,R7,R8",4,4.7k,,,,"Resistor_SMD:R_0402_1005Metric",~,1.00
-R9,1,10k,,,,"Resistor_SMD:R_0603_1608Metric",~,1.00
-TP1,1,TestPoint_2Pole,,,,"Connector_PinHeader_1.00mm:PinHeader_1x02_P1.00mm_Vertical",~,1.20
-U1,1,STM32L432KBUx,,,,"Package_DFN_QFN:QFN-32-1EP_5x5mm_P0.5mm_EP3.45x3.45mm",https://www.st.com/resource/en/datasheet/stm32l432kb.pdf,3.50
-U2,1,ATECC608A-MAHDA,,,,"Package_DFN_QFN:DFN-8-1EP_3x2mm_P0.5mm_EP1.3x1.5mm",http://ww1.microchip.com/downloads/en/DeviceDoc/ATECC608A-CryptoAuthentication-Device-Summary-Data-Sheet-DS40001977B.pdf,2.80
-U3,1,USBLC6-2SC6,,,,"Package_TO_SOT_SMD:SOT-23-6",https://www.st.com/resource/en/datasheet/usblc6-2.pdf,1.50
-U4,1,TLV75533PDBV,,,,"Package_TO_SOT_SMD:SOT-23-5",http://www.ti.com/lit/ds/symlink/tlv755p.pdf,1.80
-PCB,1,PCB Fabrication,,,,,,15.00
-,,,,,,,TOTAL,42.00
+```csv
+Qty,Part Name,Unit Price,Extended,Link
+3,1uF 0402 Capacitor,0.25,0.75,https://www.digikey.com/en/products/detail/yageo/CC0402KRX5R8BB105/5195107
+1,10uF 0603 Capacitor,0.39,0.39,https://www.digikey.com/en/products/detail/yageo/CC0603MRX5R7BB106/5195229
+2,1uF 0603 Capacitor,0.25,0.50,https://www.digikey.com/en/products/detail/yageo/CC0402KRX5R8BB105/5195107
+1,100nF 0504 Capacitor,1.52,1.52,https://www.digikey.com/en/products/detail/knowles-novacap/0504X103K500PX/7798547
+2,SK6812MINI LED,0.50,1.00,https://www.digikey.com/en/products/detail/adafruit-industries-llc/2686/5804107
+1,500mA 1206 Fuse,n/a,n/a,n/a
+1,4-Pin Header 2.54mm,n/a,n/a,n/a
+1,USB-C Receptacle 16-Pin,2.68,2.68,https://www.digikey.com/en/products/detail/hirose-electric-co-ltd/CX90BW-16P1/22565305
+2,22Ω 0201 Resistor,n/a,n/a,n/a
+2,5.1kΩ 0201 Resistor,n/a,n/a,n/a
+4,4.7kΩ 0402 Resistor,n/a,n/a,n/a
+1,10kΩ 0603 Resistor,n/a,n/a,n/a
+1,STM32L432KBUx Microcontroller,4.19,4.19,https://www.digikey.com/en/products/detail/stmicroelectronics/STM32L432KBU6/6132748
+1,ATECC608A-MAHDA Auth Chip,0.97,0.97,https://www.digikey.com/en/products/detail/microchip-technology/ATECC608A-MAHDA-T/7928114
+1,USBLC6-2SC6 ESD Protection,0.36,0.36,https://www.digikey.com/en/products/detail/stmicroelectronics/USBLC6-2SC6/1040559
+1,TLV75533PDBV Voltage Regulator,0.36,0.36,https://www.digikey.com/en/products/detail/texas-instruments/TLV75533PDBVR/9356541
+1,Solder Paste,10.00,10.00,https://www.amazon.com/Wonderway-Soldering-Electronics-CELLPHONE-Repairing/dp/B0BH4HRWGX
+1,PCB Fabrication,40.00,40.00,n/a
+,,,TOTAL,62.72
+```
