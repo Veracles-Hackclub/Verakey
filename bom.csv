@@ -1,7 +1,7 @@
 Qty,Part Name,Unit Price,Extended,Link
-3,1uF 0402 Capacitor,$0.25,$0.75,https://www.digikey.com/en/products/detail/yageo/CC0402KRX5R8BB105/5195107
-1,10uF 0603 Capacitor,$0.39,$0.39,https://www.digikey.com/en/products/detail/yageo/CC0603MRX5R7BB106/5195229
-2,1uF 0603 Capacitor,$0.25,$0.50,https://www.digikey.com/en/products/detail/yageo/CC0402KRX5R8BB105/5195107
+3,1uF 0402 Capacitor,$0.26,$0.78,https://www.digikey.com/en/products/detail/yageo/CC0402KRX5R8BB105/5195107
+1,10uF 0603 Capacitor,$0.42,$0.42,https://www.digikey.com/en/products/detail/yageo/CC0603MRX5R7BB106/5195229
+2,1uF 0603 Capacitor,$0.26,$0.52,https://www.digikey.com/en/products/detail/yageo/CC0402KRX5R8BB105/5195107
 1,100nF 0504 Capacitor,$1.52,$1.52,https://www.digikey.com/en/products/detail/knowles-novacap/0504X103K500PX/7798547
 2,SK6812MINI LED,N/A,$4.95,https://www.digikey.com/en/products/detail/adafruit-industries-llc/2686/5804107
 1,500mA 1206 Fuse,n/a,n/a,n/a
@@ -14,7 +14,6 @@ Qty,Part Name,Unit Price,Extended,Link
 1,STM32L432KBUx Microcontroller,$4.19,$4.19,https://www.digikey.com/en/products/detail/stmicroelectronics/STM32L432KBU6/6132748
 1,ATECC608A-MAHDA Auth Chip,$0.97,$0.97,https://www.digikey.com/en/products/detail/microchip-technology/ATECC608A-MAHDA-T/7928114
 1,USBLC6-2SC6 ESD Protection,$0.36,$0.36,https://www.digikey.com/en/products/detail/stmicroelectronics/USBLC6-2SC6/1040559
-1,TLV75533PDBV Voltage Regulator,$0.36,$0.36,https://www.digikey.com/en/products/detail/texas-instruments/TLV75533PDBVR/9356541
-1,Solder Paste,$10.00,$10.00,https://www.amazon.com/Wonderway-Soldering-Electronics-CELLPHONE-Repairing/dp/B0BH4HRWGX
+1,TLV75533PDBV Voltage Regulator,$0.38,$0.38,https://www.digikey.com/en/products/detail/texas-instruments/TLV75533PDBVR/9356541
 1,PCB Fabrication,$2.10,$2.10,n/a
-,,,TOTAL,$28.77
+,,,TOTAL,$30.11
